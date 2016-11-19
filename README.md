@@ -16,7 +16,7 @@ $ composer require username/package-name
 
 
 ##Requirements
-- Requires PHP 5.6 or above.
+- Requires PHP 7.0 or above.
 
 ##Author
 Your name <http://github.com/username>

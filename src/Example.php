@@ -2,7 +2,7 @@
 /**
  * Project title.
  *
- * @copyright Copyright (c) 2015 Your name
+ * @copyright Copyright (c) 2016 Your name
  * @license   MIT
  */
 
