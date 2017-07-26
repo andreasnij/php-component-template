@@ -7,7 +7,7 @@ Add the package as a requirement to your `composer.json`:
 $ composer require username/package-name
 ```
 
-##Usage
+## Usage
 ```php
 <?php
 
@@ -15,11 +15,11 @@ $ composer require username/package-name
 ```
 
 
-##Requirements
+## Requirements
 - Requires PHP 7.0 or above.
 
-##Author
+## Author
 Your name <http://github.com/username>
 
-##License
+## License
 This software is licensed under the MIT License - see the `LICENSE` file for details.
