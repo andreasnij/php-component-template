@@ -9,17 +9,15 @@ $ composer require !username!/!package-name!
 
 ## Usage
 ```php
-<?php
-
 
 ```
 
 
 ## Requirements
-- Requires PHP 7.1 or above.
+- Requires PHP 8.0 or above.
 
 ## Author
-!Your name! (<http://github.com/username>)
+!Your name! (<https://github.com/!username!>)
 
 ## License
-This software is licensed under the MIT License - see the `LICENSE` file for details.
+This software is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
