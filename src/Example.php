@@ -4,5 +4,4 @@ namespace ExampleNamespace;
 
 class Example
 {
-
 }
