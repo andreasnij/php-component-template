@@ -12,10 +12,6 @@ $ composer require !username!/!package-name!
 
 ```
 
-
-## Requirements
-- Requires PHP 8.0 or above.
-
 ## Author
 !Your name! (<https://github.com/!username!>)
 
